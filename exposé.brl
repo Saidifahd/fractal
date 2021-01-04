@@ -1,0 +1,9 @@
+Definition classe .
+Une classe est un ensemble incluant des variables ou attributs et des fonctions ou méthodes. Les attributs sont des variables accessibles depuis toute méthode de la classe où elles sont définies. 
+En python, les classes sont des types modifiables.
+
+Def Methode .
+Les méthodes sont des fonctions qui sont associées de manière explicite à une classe. Elles ont comme particularité un accès privilégié aux données de la classe elle-même.
+
+Def attributs . 
+Les attributs sont des variables qui sont associées de manière explicite à une classe. Les attributs de la classe se comportent comme des variables globales pour toutes les méthodes de cette classe.
